@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "KPI1mob.html",
+    "currentPage": "KPI2mob.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -23,10 +23,12 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 31,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
-    "KPI1mob.html": {
+    "KPI2mob.html": {
       "settings": {
         "main": true,
         "title": "",
@@ -40,6 +42,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".lead UL": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -66,8 +71,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Indicator- 1 <br>Total Regional Population",
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">This is a measure of the aggregated population in the region.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Why is this Indicator Important?</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Regional population directly influences the region’s economy and the pace and extent to which the communities in the region are developing. This indicator provides context for the principles and policies in the Growth Plan.</span><br></p><p><br></p><p><br></p>",
+          "title": "Indicator- &nbsp;2<br>Population Growth Rate",
+          "text": "<p>This is a measure of the rate of population growth experienced in the region as a whole, and the proportion of the growth that is occurring in the Priority Growth Areas (PGAs), Cluster Country Residential Areas (CCRAs), and in other areas. It measures the growth rate over the five-year period between Census years.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Why is this Indicator Important?</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Tracking growth rates helps interpret the pace of growth in the region. The growth rate informs the timeframe requirements for implementing new initiatives, such as new housing and transit.</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -78,7 +83,7 @@
           "_name": "deltapieditor",
           "_anchor": "deltapieditor-e",
           "_params": {
-            "_customHTML": "<iframe width=\"907.5\" height=\"649.125\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1440417723&amp;format=interactive\"></iframe>",
+            "_customHTML": "<iframe width=\"1414\" height=\"711.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=595207702&amp;format=interactive\"></iframe>",
             "_customCSS": "p{color:white;}",
             "bgImageRadio": false,
             "parallax": false,
@@ -87,7 +92,7 @@
             "bgColorRadio": true
           },
           "_customCSS": "p{color:white;}",
-          "_customHTML": "<iframe width=\"907.5\" height=\"649.125\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1440417723&amp;format=interactive\"></iframe>"
+          "_customHTML": "<iframe width=\"1414\" height=\"711.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=595207702&amp;format=interactive\"></iframe>"
         },
         {
           "alias": "deltapieditor",
@@ -97,7 +102,7 @@
           "_name": "deltapieditor",
           "_anchor": "deltapieditor-f",
           "_params": {
-            "_customHTML": "<iframe width=\"907.5\" height=\"649.5\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2138146335&amp;format=interactive\"></iframe>",
+            "_customHTML": "<iframe width=\"1310.5\" height=\"712.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=225320213&amp;format=interactive\"></iframe>",
             "_customCSS": "p{color:white;}",
             "bgImageRadio": false,
             "parallax": false,
@@ -106,7 +111,7 @@
             "bgColorRadio": true
           },
           "_customCSS": "p{color:white;}",
-          "_customHTML": "<iframe width=\"907.5\" height=\"649.5\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2138146335&amp;format=interactive\"></iframe>"
+          "_customHTML": "<iframe width=\"1310.5\" height=\"712.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=225320213&amp;format=interactive\"></iframe>"
         },
         {
           "_styles": {
@@ -201,7 +206,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MUNICIPALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"KPI1mob.html#deltapieditor-e\">Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"KPI1mob.html#deltapieditor-f\">Beaumont&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"KPI1mob.html#deltapieditor-l\">Bon Accord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"KPI1mob.html#deltapieditor-m\">Bruderheim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INDICATOR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">1-Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">2-Population Growth Rate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">3-Distrubution of Population Growth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">4-Dwelling Unit Density</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5-Fuel Sales And Vehicle GHG Emissions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">6-Ambient Air Quality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7-Distribution of Market and Non-Market Housing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pub?gid=0&amp;single=true&amp;output=csv\">DOWNLOAD CSV DATA</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GROWTH AREA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"KPI2mob.html#deltapieditor-e\">PGA (Priority Growth Areas)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"KPI2mob.html#deltapieditor-f\">CCRA (Cluster County Residential Areas) </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"KPI2mob.html#deltapieditor-l\">MAP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INDICATOR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://capstone24.github.io/KPI1mob.html\">1-Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">2-Population Growth Rate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">3-Distrubution of Population Growth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">4-Dwelling Unit Density</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5-Fuel Sales And Vehicle GHG Emissions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">6-Ambient Air Quality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7-Distribution of Market and Non-Market Housing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://docs.google.com/spreadsheets/d/1hfolS31ESjESwUNqJeDukyfEdjDuGAzLkzTnCaaYJx0/pub?gid=890432895&amp;single=true&amp;output=csv\">DOWNLOAD CSV DATA</a></li>"
         },
         {
           "alias": "deltapieditor",
@@ -211,7 +216,7 @@
           "_name": "deltapieditor",
           "_anchor": "deltapieditor-l",
           "_params": {
-            "_customHTML": "<br><iframe width=\"908\" height=\"648.5\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1239748081&amp;format=interactive\"></iframe><br>",
+            "_customHTML": "<br><iframe width=\"908\" height=\"648.5\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"http://capitalregion.maps.arcgis.com/apps/Viewer/index.html?appid=3bceab64968248cc9bfd1d65b481dda1\"></iframe><br>",
             "_customCSS": "p{color:white;}",
             "bgImageRadio": false,
             "parallax": false,
@@ -220,26 +225,7 @@
             "bgColorRadio": true
           },
           "_customCSS": "p{color:white;}",
-          "_customHTML": "<br><iframe width=\"908\" height=\"648.5\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1239748081&amp;format=interactive\"></iframe><br>"
-        },
-        {
-          "alias": "deltapieditor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "deltapieditor",
-          "_anchor": "deltapieditor-m",
-          "_params": {
-            "_customHTML": "<iframe width=\"907.5\" height=\"647.5\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2124954414&amp;format=interactive\"></iframe>",
-            "_customCSS": "p{color:white;}",
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true
-          },
-          "_customCSS": "p{color:white;}",
-          "_customHTML": "<iframe width=\"907.5\" height=\"647.5\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2124954414&amp;format=interactive\"></iframe>"
+          "_customHTML": "<br><iframe width=\"908\" height=\"648.5\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"http://capitalregion.maps.arcgis.com/apps/Viewer/index.html?appid=3bceab64968248cc9bfd1d65b481dda1\"></iframe><br>"
         }
       ]
     }
