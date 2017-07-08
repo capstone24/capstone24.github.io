@@ -418,6 +418,13 @@ h6,
 #msg-box8-n p {
   color: #fff;
 }
+#msg-box8-n .lead P {
+  text-align: center;
+}
+#msg-box8-n .lead DIV {
+  text-align: center;
+  color: #efefef;
+}
 #menu-k .hide-buttons .nav-btn {
   display: none !important;
 }
