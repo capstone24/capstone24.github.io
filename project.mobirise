@@ -1,0 +1,247 @@
+{
+  "settings": {
+    "currentPage": "KPI1mob.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 31,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "KPI1mob.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1502.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Indicator- 1 <br>Total Regional Population",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">This is a measure of the aggregated population in the region.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Why is this Indicator Important?</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Regional population directly influences the region’s economy and the pace and extent to which the communities in the region are developing. This indicator provides context for the principles and policies in the Growth Plan.</span><br></p><p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-e",
+          "_params": {
+            "_customHTML": "<iframe width=\"907.5\" height=\"649.125\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1440417723&amp;format=interactive\"></iframe>",
+            "_customCSS": "p{color:white;}",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true
+          },
+          "_customCSS": "p{color:white;}",
+          "_customHTML": "<iframe width=\"907.5\" height=\"649.125\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1440417723&amp;format=interactive\"></iframe>"
+        },
+        {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-f",
+          "_params": {
+            "_customHTML": "<iframe width=\"907.5\" height=\"649.5\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2138146335&amp;format=interactive\"></iframe>",
+            "_customCSS": "p{color:white;}",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true
+          },
+          "_customCSS": "p{color:white;}",
+          "_customHTML": "<iframe width=\"907.5\" height=\"649.5\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2138146335&amp;format=interactive\"></iframe>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "21px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#307193"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#3985ad!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#3d8eb9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-k",
+          "_params": {
+            "bgColor": "#3d8eb9",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-white-576x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MUNICIPALITY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"KPI1mob.html#deltapieditor-e\">Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"KPI1mob.html#deltapieditor-f\">Beaumont&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"KPI1mob.html#deltapieditor-l\">Bon Accord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"KPI1mob.html#deltapieditor-m\">Bruderheim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INDICATOR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">1-Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">2-Population Growth Rate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">3-Distrubution of Population Growth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">4-Dwelling Unit Density</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5-Fuel Sales And Vehicle GHG Emissions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">6-Ambient Air Quality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7-Distribution of Market and Non-Market Housing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pub?gid=0&amp;single=true&amp;output=csv\">DOWNLOAD CSV DATA</a></li>"
+        },
+        {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-l",
+          "_params": {
+            "_customHTML": "<br><iframe width=\"908\" height=\"648.5\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1239748081&amp;format=interactive\"></iframe><br>",
+            "_customCSS": "p{color:white;}",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true
+          },
+          "_customCSS": "p{color:white;}",
+          "_customHTML": "<br><iframe width=\"908\" height=\"648.5\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1239748081&amp;format=interactive\"></iframe><br>"
+        },
+        {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-m",
+          "_params": {
+            "_customHTML": "<iframe width=\"907.5\" height=\"647.5\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2124954414&amp;format=interactive\"></iframe>",
+            "_customCSS": "p{color:white;}",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true
+          },
+          "_customCSS": "p{color:white;}",
+          "_customHTML": "<iframe width=\"907.5\" height=\"647.5\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2124954414&amp;format=interactive\"></iframe>"
+        }
+      ]
+    }
+  }
+}
