@@ -1,7 +1,7 @@
 {
   "settings": {
-    "currentPage": "Indicator1.html",
-    "name": "Indicator 1",
+    "currentPage": "Indicator2.html",
+    "name": "Indicator 2",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 56,
+    "uniqCompNum": 48,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -30,10 +30,10 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "Indicator1.html": {
+    "Indicator2.html": {
       "settings": {
         "main": true,
-        "title": "Indicator 1 Total Regional Population ",
+        "title": "Indicator 2 Population Growth Rate",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -44,13 +44,6 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
-            },
-            ".lead P": {
-              "text-align": "center"
-            },
-            ".lead DIV": {
-              "text-align": "center",
-              "color": "#efefef"
             }
           },
           "_tags": [
@@ -77,9 +70,28 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Indicator- 1&nbsp;<br>Total Regional Population",
-          "text": "<p></p><p>This is a measure of the aggregated population in the region.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Why is this Indicator Important?</span><br></p><p>Regional population directly influences the region’s economy and the pace and extent to which the communities in the region are developing. This indicator provides context for the principles and policies in the Growth Plan.</p><p><b><a href=\"Indicator1.html#deltapieditor-f\" class=\"text-white\">Total Regional Population</a></b></p><div><b><a href=\"Indicator1.html#deltapieditor-1f\" class=\"text-white\">Beaumont</a> &nbsp;-&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"Indicator1.html#deltapieditor-1f\" target=\"_blank\" class=\"text-white\">Bon Accord</a> -&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"Indicator1.html#deltapieditor-1h\" class=\"text-white\">Bruderheim </a>-<a href=\"Indicator1.html#deltapieditor-1i\">&nbsp;</a></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"Indicator1.html#deltapieditor-1i\" class=\"text-white\">Calmar</a> -&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"Indicator1.html#deltapieditor-1j\" class=\"text-white\">Devon</a> -</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Edmonton -&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Legal -&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Morinville </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Parkland County -&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Redwater -&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Spruce Grove -&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">St. Albert -&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Stony Plain -&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Strathcona County&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sturgeon County -&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Thorsby -&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Wabamun -&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Warburg</span></b></div><p></p>",
+          "title": "Indicator- 2&nbsp;<br>Population Growth Rate",
+          "text": "<p>This is a measure of the rate of population growth experienced in the region as a whole, and the proportion of the growth that is occurring in the Priority Growth Areas (PGAs), Cluster Country Residential Areas (CCRAs), and in other areas. It measures the growth rate over the five-year period between Census years.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Why is this Indicator Important?</span><br></p><p>Tracking growth rates helps interpret the pace of growth in the region. The growth rate informs the timeframe requirements for implementing new initiatives, such as new housing and transit.</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-e",
+          "_params": {
+            "_customHTML": "<iframe width=\"1414\" height=\"711.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=595207702&amp;format=interactive\"></iframe>",
+            "_customCSS": "p{color:white;}",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true
+          },
+          "_customCSS": "p{color:white;}",
+          "_customHTML": "<iframe width=\"1414\" height=\"711.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=595207702&amp;format=interactive\"></iframe>"
         },
         {
           "alias": "deltapieditor",
@@ -89,16 +101,16 @@
           "_name": "deltapieditor",
           "_anchor": "deltapieditor-f",
           "_params": {
-            "_customHTML": " <iframe width=\"907.5\" height=\"649.125\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1440417723&amp;format=interactive\"></iframe>",
+            "_customHTML": "<iframe width=\"1310.5\" height=\"712.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=225320213&amp;format=interactive\"></iframe>",
             "_customCSS": "p{color:white;}",
             "bgImageRadio": false,
             "parallax": false,
             "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgColorRadio": true
           },
           "_customCSS": "p{color:white;}",
-          "_customHTML": " <iframe width=\"907.5\" height=\"649.125\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1440417723&amp;format=interactive\"></iframe>"
+          "_customHTML": "<iframe width=\"1310.5\" height=\"712.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=225320213&amp;format=interactive\"></iframe>"
         },
         {
           "_styles": {
@@ -196,102 +208,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"true\">1- Total Regional Population</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator2.html\">2-Population Growth Rate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator3.html\" aria-expanded=\"false\">3-Distrubution of Population Growth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator4.html\">4-Dwelling Unit Density</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator5.html\">5-Fuel Sales And Vehicle GHG Emissions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator6.html\">6-Ambient Air Quality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator7.html\">7-Distribution of Market and Non-Market Housing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"true\">Top</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://docs.google.com/spreadsheets/d/1hfolS31ESjESwUNqJeDukyfEdjDuGAzLkzTnCaaYJx0/pub?gid=890432895&amp;single=true&amp;output=csv\">DOWNLOAD CSV DATA</a></li>"
-        },
-        {
-          "alias": "deltapieditor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "deltapieditor",
-          "_anchor": "deltapieditor-1f",
-          "_params": {
-            "_customHTML": "<iframe width=\"907.5\" height=\"649.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2138146335&amp;format=interactive\"></iframe>",
-            "_customCSS": "p{color:white;}",
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true
-          },
-          "_customCSS": "p{color:white;}",
-          "_customHTML": "<iframe width=\"907.5\" height=\"649.5\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2138146335&amp;format=interactive\"></iframe>"
-        },
-        {
-          "alias": "deltapieditor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "deltapieditor",
-          "_anchor": "deltapieditor-1g",
-          "_params": {
-            "_customHTML": "<iframe width=\"908\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1239748081&amp;format=interactive\"></iframe>",
-            "_customCSS": "p{color:white;}",
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
-            "bgColor": "#efefef",
-            "bgColorRadio": true
-          },
-          "_customCSS": "p{color:white;}",
-          "_customHTML": "<iframe width=\"908\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1239748081&amp;format=interactive\"></iframe>"
-        },
-        {
-          "alias": "deltapieditor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "deltapieditor",
-          "_anchor": "deltapieditor-1h",
-          "_params": {
-            "_customHTML": "<iframe width=\"907.5\" height=\"647.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2124954414&amp;format=interactive\"></iframe>",
-            "_customCSS": "p{color:white;}",
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true
-          },
-          "_customCSS": "p{color:white;}",
-          "_customHTML": "<iframe width=\"907.5\" height=\"647.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2124954414&amp;format=interactive\"></iframe>"
-        },
-        {
-          "alias": "deltapieditor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "deltapieditor",
-          "_anchor": "deltapieditor-1i",
-          "_params": {
-            "_customHTML": "<iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1310777412&amp;format=interactive\"></iframe>",
-            "_customCSS": "p{color:white;}",
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
-            "bgColor": "#efefef",
-            "bgColorRadio": true
-          },
-          "_customCSS": "p{color:white;}",
-          "_customHTML": "<iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1310777412&amp;format=interactive\"></iframe>"
-        },
-        {
-          "alias": "deltapieditor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "deltapieditor",
-          "_anchor": "deltapieditor-1j",
-          "_params": {
-            "_customHTML": " <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1514872971&format=interactive\"></iframe>",
-            "_customCSS": "p{color:white;}",
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true
-          },
-          "_customCSS": "p{color:white;}",
-          "_customHTML": " <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1514872971&format=interactive\"></iframe>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"true\">2-Population Growth Rate</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator1.html\">1- Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator3.html\" aria-expanded=\"false\">3-Distrubution of Population Growth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator4.html\">4-Dwelling Unit Density</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator5.html\">5-Fuel Sales And Vehicle GHG Emissions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator6.html\">6-Ambient Air Quality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator7.html\">7-Distribution of Market and Non-Market Housing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://capitalregion.maps.arcgis.com/apps/Viewer/index.html?appid=3bceab64968248cc9bfd1d65b481dda1\" aria-expanded=\"false\" target=\"_blank\">MAP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://docs.google.com/spreadsheets/d/1hfolS31ESjESwUNqJeDukyfEdjDuGAzLkzTnCaaYJx0/pub?gid=890432895&amp;single=true&amp;output=csv\">DOWNLOAD CSV DATA</a></li>"
         }
       ]
     }
