@@ -418,9 +418,6 @@ h6,
 #msg-box8-n p {
   color: #fff;
 }
-#msg-box8-n .lead UL {
-  color: #ffffff;
-}
 #menu-k .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -484,4 +481,7 @@ h6,
 #menu-k .link[aria-expanded="true"],
 #menu-k .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#menu-k .btn {
+  font-size: 14px;
 }
