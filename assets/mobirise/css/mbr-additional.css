@@ -522,11 +522,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #menu-1t .link {
-  font-size: 0.75rem;
+  font-size: 1.15rem;
 }
 #menu-1t .dropdown-item,
 #menu-1t .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.245rem;
 }
 #menu-1t .link:hover,
 #menu-1t .dropdown-item:hover,

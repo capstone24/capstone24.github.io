@@ -143,7 +143,7 @@
           "_anchor": "menu-1q",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "1.15",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -155,7 +155,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": false,
+            "collapsed": true,
             "hideButtons": false
           },
           "logo": {
@@ -269,10 +269,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -310,7 +310,7 @@
           "_anchor": "menu-1t",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "1.15",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -322,7 +322,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": false,
+            "collapsed": true,
             "hideButtons": false
           },
           "logo": {
@@ -352,7 +352,7 @@
           "_name": "deltapieditor",
           "_anchor": "deltapieditor-1x",
           "_params": {
-            "_customHTML": "<iframe width=\"1414\" height=\"711.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=595207702&amp;format=interactive\"></iframe>\n\n<iframe width=\"1310.5\" height=\"712.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=225320213&amp;format=interactive\"></iframe> ",
+            "_customHTML": "<iframe width=\"1414\" height=\"711.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=595207702&format=interactive\" align=\"right\" ></iframe>\n\n<iframe width=\"1310.5\" height=\"712.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=225320213&format=interactive\" align=\"right\"></iframe> ",
             "_customCSS": "",
             "bgImageRadio": false,
             "parallax": false,
@@ -361,7 +361,7 @@
             "bgColorRadio": true
           },
           "_customCSS": "",
-          "_customHTML": "<iframe width=\"1414\" height=\"711.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=595207702&amp;format=interactive\"></iframe>\n\n<iframe width=\"1310.5\" height=\"712.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=225320213&amp;format=interactive\"></iframe> "
+          "_customHTML": "<iframe width=\"1414\" height=\"711.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=595207702&format=interactive\" align=\"right\" ></iframe>\n\n<iframe width=\"1310.5\" height=\"712.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=225320213&format=interactive\" align=\"right\"></iframe> "
         }
       ]
     }
