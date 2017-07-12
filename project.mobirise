@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Indicator2.html",
+    "currentPage": "Indicator1.html",
     "name": "Indicator 1",
     "theme": {
       "name": "mobirise3",
@@ -102,10 +102,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"

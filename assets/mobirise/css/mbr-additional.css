@@ -444,11 +444,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #menu-1q .link {
-  font-size: 1.1rem;
+  font-size: 0.95rem;
 }
 #menu-1q .dropdown-item,
 #menu-1q .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.029rem;
 }
 #menu-1q .link:hover,
 #menu-1q .dropdown-item:hover,
