@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "Indicator2.html",
-    "name": "Indicator 2",
+    "name": "Indicator 1",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,18 +22,18 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 48,
+    "uniqCompNum": 68,
     "versionPublish": "3.12.1",
-    "path": "@PROJECT_PATH@",
+    "path": "file:///C:/Users/John/Desktop/CRb",
     "favicon": "",
     "noImageResize": "",
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "Indicator2.html": {
+    "Indicator1.html": {
       "settings": {
         "main": true,
-        "title": "Indicator 2 Population Growth Rate",
+        "title": "Indacator 1 Total Regional Population ",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -44,6 +44,13 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "center"
+            },
+            ".lead DIV": {
+              "text-align": "center",
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -70,47 +77,9 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Indicator- 2&nbsp;<br>Population Growth Rate",
-          "text": "<p>This is a measure of the rate of population growth experienced in the region as a whole, and the proportion of the growth that is occurring in the Priority Growth Areas (PGAs), Cluster Country Residential Areas (CCRAs), and in other areas. It measures the growth rate over the five-year period between Census years.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Why is this Indicator Important?</span><br></p><p>Tracking growth rates helps interpret the pace of growth in the region. The growth rate informs the timeframe requirements for implementing new initiatives, such as new housing and transit.</p><p><br></p>",
+          "title": "Indicator- 1&nbsp;<br>Total Regional Population",
+          "text": "<p></p><p>This is a measure of the aggregated population in the region.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Why is this Indicator Important?</span><br></p><p>Regional population directly influences the region’s economy and the pace and extent to which the communities in the region are developing. This indicator provides context for the principles and policies in the Growth Plan.</p><p><b>Download CSV Data</b></p><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "alias": "deltapieditor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "deltapieditor",
-          "_anchor": "deltapieditor-e",
-          "_params": {
-            "_customHTML": "<iframe width=\"1414\" height=\"711.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=595207702&amp;format=interactive\"></iframe>",
-            "_customCSS": "p{color:white;}",
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true
-          },
-          "_customCSS": "p{color:white;}",
-          "_customHTML": "<iframe width=\"1414\" height=\"711.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=595207702&amp;format=interactive\"></iframe>"
-        },
-        {
-          "alias": "deltapieditor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "deltapieditor",
-          "_anchor": "deltapieditor-f",
-          "_params": {
-            "_customHTML": "<iframe width=\"1310.5\" height=\"712.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=225320213&amp;format=interactive\"></iframe>",
-            "_customCSS": "p{color:white;}",
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true
-          },
-          "_customCSS": "p{color:white;}",
-          "_customHTML": "<iframe width=\"1310.5\" height=\"712.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=225320213&amp;format=interactive\"></iframe>"
         },
         {
           "_styles": {
@@ -119,9 +88,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "21px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-size": "17px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -135,22 +102,22 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#307193"
+              "background": "#0e0e0e"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3985ad!important"
+              "background": "#202020!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3d8eb9"
+              "background": "#282828"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -173,10 +140,10 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-k",
+          "_anchor": "menu-1q",
           "_params": {
-            "bgColor": "#3d8eb9",
-            "fontSize": "1",
+            "bgColor": "#282828",
+            "fontSize": 0.75,
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -184,11 +151,11 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -197,7 +164,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-white-576x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#top",
+              "link": "https://mobirise.com",
               "title": "",
               "linkInNewWindow": false
             },
@@ -207,8 +174,175 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"true\">2-Population Growth Rate</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator1.html\">1- Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator3.html\" aria-expanded=\"false\">3-Distrubution of Population Growth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator4.html\">4-Dwelling Unit Density</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator5.html\">5-Fuel Sales And Vehicle GHG Emissions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator6.html\">6-Ambient Air Quality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator7.html\">7-Distribution of Market and Non-Market Housing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://capitalregion.maps.arcgis.com/apps/Viewer/index.html?appid=3bceab64968248cc9bfd1d65b481dda1\" aria-expanded=\"false\" target=\"_blank\">MAP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://docs.google.com/spreadsheets/d/1hfolS31ESjESwUNqJeDukyfEdjDuGAzLkzTnCaaYJx0/pub?gid=890432895&amp;single=true&amp;output=csv\">DOWNLOAD CSV DATA</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Key Performance Indicators</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INDICATOR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator1.html\">1 - Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator2.html\">2 – Population Growth Rate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 – Distribution of Population Growth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 - Dwelling Unit Density</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"> 5 – Fuel Sales and Vehicle GHG Emissions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">6 - Ambient Air Quality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 – Distribution of Market and Non-Market Housing</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://capitalregion.maps.arcgis.com/apps/Viewer/index.html?appid=3bceab64968248cc9bfd1d65b481dda1\" target=\"_blank\">MAP</a></li>"
+        }
+      ]
+    },
+    "Indicator2.html": {
+      "settings": {
+        "title": "Indacator 2 Population Growth Rate ",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "center"
+            },
+            ".lead DIV": {
+              "text-align": "center",
+              "color": "#efefef"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/downtown-skyline-edmonton-alberta-canada-01a-2000x605.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Indicator 2 – Population Growth Rate",
+          "text": "<p></p><p>This is a measure of the rate of population growth experienced in the region as a whole, and the proportion of the growth that is occurring in the Priority Growth Areas (PGAs), Cluster Country Residential Areas (CCRAs), and in other areas. It measures the growth rate over the five-year period between Census years.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Why is this Indicator Important?</span><br></p><p>Tracking growth rates helps interpret the pace of growth in the region. The growth rate informs the timeframe requirements for implementing new initiatives, such as new housing and transit.</p><p><b><a href=\"https://docs.google.com/spreadsheets/d/1hfolS31ESjESwUNqJeDukyfEdjDuGAzLkzTnCaaYJx0/pub?gid=890432895&amp;single=true&amp;output=csv\" class=\"text-white\">Download CSV Data</a></b></p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "17px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1t",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-white-576x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Key Performance Indicators</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INDICATOR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator1.html\">1 - Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator2.html\">2 – Population Growth Rate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 – Distribution of Population Growth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 - Dwelling Unit Density</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"> 5 – Fuel Sales and Vehicle GHG Emissions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">6 - Ambient Air Quality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 – Distribution of Market and Non-Market Housing</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://capitalregion.maps.arcgis.com/apps/Viewer/index.html?appid=3bceab64968248cc9bfd1d65b481dda1\" target=\"_blank\">MAP</a></li>"
+        },
+        {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-1u",
+          "_params": {
+            "_customHTML": "\n  <style>\ndiv.tab {\n    float: left;\n    border: 0px;\n        border-right: none;\n        width: 15%;\n    height: 100%;\n    position:relative;\n}\n\n\ndiv.tab button {\n    display: block;\n    background-color: inherit;\n    color: black;\n    padding: 0px 10px;\n    width: 100%;\n    border: none;\n    outline: none;\n    text-align: left;\n    cursor: pointer;\n    transition: 0.3s;\n    font-size: 16px;\n}\n\ndiv.tab button:hover {\n    background-color: #ddd;\n}\n\n/* Create an active/current \"tab button\" class */\ndiv.tab button.active {\n    background-color: #ccc;\n}\n\n\n</style> \n <div class=\"tab\">\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Totals')\" id=\"defaultOpen\"> Total Regional Population </button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Beaumont')\">Beaumont</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'BonAccord')\">Bon Accord</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Bruderheim')\">Bruderheim</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Calmar')\">Calmar</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Devon')\">Devon</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Edmonton')\">Edmonton</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'FortSaskatchewan')\">Fort Saskatchewan</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Gibbons')\">Gibbons</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Lamont')\">Lamont</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'LamontCounty')\">Lamont County</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Leduc')\">Leduc</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'LeducCounty')\">Leduc County</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Legal')\">Legal</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Morinville')\">Morinville</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'ParklandCounty')\">Parkland County</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Redwater')\">Redwater</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'SpruceGrove')\">Spruce Grove</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'StAlbert')\">St. Albert</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'StonyPlain')\">Stony Plain</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'StrathconaCounty')\">Strathcona County</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'SturgeonCounty')\">Sturgeon County</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Thorsby')\">Thorsby</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Wabamun')\">Wabamun</button>\n\t\t <button class=\"tablinks\" onclick=\"openCity(event, 'Warburg')\">Warburg</button>\n</div>\n\n<div id=\"Totals\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n <iframe width=\"907.5\" height=\"649.125\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1440417723&format=interactive\"></iframe>\n      </div>\n      <div id=\"Beaumont\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"907.5\" height=\"649.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2138146335&format=interactive\"></iframe>\n      </div>\n      <div id=\"BonAccord\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"908\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1239748081&format=interactive\"></iframe>\n      </div>\n      <div id=\"Bruderheim\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"907.5\" height=\"647.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2124954414&format=interactive\"></iframe>\n      </div>\n      <div id=\"Calmar\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1310777412&format=interactive\"></iframe>\n      </div>\n      <div id=\"Devon\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1514872971&format=interactive\"></iframe>\n      </div>\n      <div id=\"Edmonton\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2130955728&format=interactive\" ></iframe>\n      </div>\n      <div id=\"FortSaskatchewan\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=836334990&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Gibbons\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1461435620&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Lamont\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=275547815&format=interactive\" ></iframe>\n      </div>\n      <div id=\"LamontCounty\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=127598458&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Leduc\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=708321775&format=interactive\" ></iframe>\n      </div>\n      <div id=\"LeducCounty\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1912751500&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Legal\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=476495661&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Morinville\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1324496771&format=interactive\" ></iframe>\n      </div>\n      <div id=\"ParklandCounty\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1611806867&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Redwater\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1476816162&format=interactive\" ></iframe>\n      </div>\n      <div id=\"SpruceGrove\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=371688011&format=interactive\" ></iframe>\n      </div>\n      <div id=\"StAlbert\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=371688011&format=interactive\" ></iframe>\n      </div>\n      <div id=\"StonyPlain\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=224451391&format=interactive\" ></iframe>\n      </div>\n      <div id=\"StrathconaCounty\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=753278811&format=interactive\" ></iframe>\n      </div>\n      <div id=\"SturgeonCounty\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=978362677&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Thorsby\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1039071292&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Wabamun\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=940172571&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Warburg\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=668552959&format=interactive\" ></iframe>\n\n\t  </div>\n<script>\nfunction openCity(evt, cityName) {\n    var i, tabcontent, tablinks;\n    tabcontent = document.getElementsByClassName(\"tabcontent\");\n    for (i = 0; i < tabcontent.length; i++) {\n        tabcontent[i].style.display = \"none\";\n    }\n    tablinks = document.getElementsByClassName(\"tablinks\");\n    for (i = 0; i < tablinks.length; i++) {\n        tablinks[i].className = tablinks[i].className.replace(\" active\", \"\");\n    }\n    document.getElementById(cityName).style.display = \"block\";\n    evt.currentTarget.className += \" active\";\n}\n// Get the element with id=\"defaultOpen\" and click on it\ndocument.getElementById(\"defaultOpen\").click();\n</script>",
+            "_customCSS": "p{color:white;}\n",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true
+          },
+          "_customCSS": "p{color:white;}\n",
+          "_customHTML": "\n  <style>\ndiv.tab {\n    float: left;\n    border: 0px;\n        border-right: none;\n        width: 15%;\n    height: 100%;\n    position:relative;\n}\n\n\ndiv.tab button {\n    display: block;\n    background-color: inherit;\n    color: black;\n    padding: 0px 10px;\n    width: 100%;\n    border: none;\n    outline: none;\n    text-align: left;\n    cursor: pointer;\n    transition: 0.3s;\n    font-size: 16px;\n}\n\ndiv.tab button:hover {\n    background-color: #ddd;\n}\n\n/* Create an active/current \"tab button\" class */\ndiv.tab button.active {\n    background-color: #ccc;\n}\n\n\n</style> \n <div class=\"tab\">\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Totals')\" id=\"defaultOpen\"> Total Regional Population </button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Beaumont')\">Beaumont</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'BonAccord')\">Bon Accord</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Bruderheim')\">Bruderheim</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Calmar')\">Calmar</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Devon')\">Devon</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Edmonton')\">Edmonton</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'FortSaskatchewan')\">Fort Saskatchewan</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Gibbons')\">Gibbons</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Lamont')\">Lamont</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'LamontCounty')\">Lamont County</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Leduc')\">Leduc</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'LeducCounty')\">Leduc County</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Legal')\">Legal</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Morinville')\">Morinville</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'ParklandCounty')\">Parkland County</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Redwater')\">Redwater</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'SpruceGrove')\">Spruce Grove</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'StAlbert')\">St. Albert</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'StonyPlain')\">Stony Plain</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'StrathconaCounty')\">Strathcona County</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'SturgeonCounty')\">Sturgeon County</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Thorsby')\">Thorsby</button>\n         <button class=\"tablinks\" onclick=\"openCity(event, 'Wabamun')\">Wabamun</button>\n\t\t <button class=\"tablinks\" onclick=\"openCity(event, 'Warburg')\">Warburg</button>\n</div>\n\n<div id=\"Totals\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n <iframe width=\"907.5\" height=\"649.125\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1440417723&format=interactive\"></iframe>\n      </div>\n      <div id=\"Beaumont\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"907.5\" height=\"649.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2138146335&format=interactive\"></iframe>\n      </div>\n      <div id=\"BonAccord\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"908\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1239748081&format=interactive\"></iframe>\n      </div>\n      <div id=\"Bruderheim\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"907.5\" height=\"647.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2124954414&format=interactive\"></iframe>\n      </div>\n      <div id=\"Calmar\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1310777412&format=interactive\"></iframe>\n      </div>\n      <div id=\"Devon\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1514872971&format=interactive\"></iframe>\n      </div>\n      <div id=\"Edmonton\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=2130955728&format=interactive\" ></iframe>\n      </div>\n      <div id=\"FortSaskatchewan\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=836334990&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Gibbons\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1461435620&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Lamont\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=275547815&format=interactive\" ></iframe>\n      </div>\n      <div id=\"LamontCounty\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=127598458&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Leduc\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=708321775&format=interactive\" ></iframe>\n      </div>\n      <div id=\"LeducCounty\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1912751500&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Legal\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=476495661&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Morinville\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1324496771&format=interactive\" ></iframe>\n      </div>\n      <div id=\"ParklandCounty\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1611806867&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Redwater\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1476816162&format=interactive\" ></iframe>\n      </div>\n      <div id=\"SpruceGrove\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=371688011&format=interactive\" ></iframe>\n      </div>\n      <div id=\"StAlbert\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=371688011&format=interactive\" ></iframe>\n      </div>\n      <div id=\"StonyPlain\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=224451391&format=interactive\" ></iframe>\n      </div>\n      <div id=\"StrathconaCounty\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=753278811&format=interactive\" ></iframe>\n      </div>\n      <div id=\"SturgeonCounty\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=978362677&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Thorsby\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=1039071292&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Wabamun\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=940172571&format=interactive\" ></iframe>\n      </div>\n      <div id=\"Warburg\" class=\"tabcontent\">\n         <span onclick=\"this.parentElement.style.display='none'\" class=\"topright\">x</span>\n         <iframe width=\"905.5\" height=\"648.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1aMEHPpBAFKLLbVHjQj1RzwraBmjD45xjBSXcJyoazgg/pubchart?oid=668552959&format=interactive\" ></iframe>\n\n\t  </div>\n<script>\nfunction openCity(evt, cityName) {\n    var i, tabcontent, tablinks;\n    tabcontent = document.getElementsByClassName(\"tabcontent\");\n    for (i = 0; i < tabcontent.length; i++) {\n        tabcontent[i].style.display = \"none\";\n    }\n    tablinks = document.getElementsByClassName(\"tablinks\");\n    for (i = 0; i < tablinks.length; i++) {\n        tablinks[i].className = tablinks[i].className.replace(\" active\", \"\");\n    }\n    document.getElementById(cityName).style.display = \"block\";\n    evt.currentTarget.className += \" active\";\n}\n// Get the element with id=\"defaultOpen\" and click on it\ndocument.getElementById(\"defaultOpen\").click();\n</script>"
         }
       ]
     }
