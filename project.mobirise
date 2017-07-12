@@ -143,7 +143,7 @@
           "_anchor": "menu-1q",
           "_params": {
             "bgColor": "#252323",
-            "fontSize": "1.1",
+            "fontSize": "0.95",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -269,10 +269,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -310,7 +310,7 @@
           "_anchor": "menu-1t",
           "_params": {
             "bgColor": "#252323",
-            "fontSize": "1.1",
+            "fontSize": "0.95",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
