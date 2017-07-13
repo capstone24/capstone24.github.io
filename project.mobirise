@@ -1,7 +1,7 @@
 {
   "settings": {
-    "currentPage": "Indicator1.html",
-    "name": "Indicator 1",
+    "currentPage": "Indicator3.html",
+    "name": "Key Performance indicators",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -102,10 +102,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -143,7 +143,7 @@
           "_anchor": "menu-1q",
           "_params": {
             "bgColor": "#252323",
-            "fontSize": "0.95",
+            "fontSize": "1",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -155,7 +155,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": false,
+            "collapsed": true,
             "hideButtons": false
           },
           "logo": {
@@ -175,7 +175,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Key Performance Indicators</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INDICATOR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator1.html\">1 - Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator2.html\">2 – Population Growth Rate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 – Distribution of Population Growth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 - Dwelling Unit Density</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"> 5 – Fuel Sales and Vehicle GHG Emissions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">6 - Ambient Air Quality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 – Distribution of Market and Non-Market Housing</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://capitalregion.maps.arcgis.com/apps/Viewer/index.html?appid=3bceab64968248cc9bfd1d65b481dda1\" target=\"_blank\">MAP</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INDICATOR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator1.html\">1 - Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator2.html\">2 – Population Growth Rate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator3.html\">3 – Distribution of Population Growth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator4.html\">4 - Dwelling Unit Density</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator5.html\"> 5 – Fuel Sales and Vehicle GHG Emissions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator6.html\">6 - Ambient Air Quality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator7.html\">7 – Distribution of Market and Non-Market Housing</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://capitalregion.maps.arcgis.com/apps/Viewer/index.html?appid=3bceab64968248cc9bfd1d65b481dda1\" target=\"_blank\">MAP</a></li>"
         },
         {
           "alias": "deltapieditor",
@@ -213,7 +213,8 @@
               "color": "#fff"
             },
             ".lead P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "16px"
             },
             ".lead DIV": {
               "text-align": "center",
@@ -245,8 +246,37 @@
             "showButton": false
           },
           "title": "Indicator 2 – Population Growth Rate",
-          "text": "<p></p><p>This is a measure of the rate of population growth experienced in the region as a whole, and the proportion of the growth that is occurring in the Priority Growth Areas (PGAs), Cluster Country Residential Areas (CCRAs), and in other areas. It measures the growth rate over the five-year period between Census years.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Why is this Indicator Important?</span><br></p><p>Tracking growth rates helps interpret the pace of growth in the region. The growth rate informs the timeframe requirements for implementing new initiatives, such as new housing and transit.</p><p><b><a href=\"https://docs.google.com/spreadsheets/d/1hfolS31ESjESwUNqJeDukyfEdjDuGAzLkzTnCaaYJx0/pub?gid=890432895&amp;single=true&amp;output=csv\" class=\"text-white\">Download CSV Data</a></b></p><p></p>",
+          "text": "<p></p><p>This is a measure of the rate of population growth experienced in the region as a whole, and the proportion of the growth that is occurring in the Priority Growth Areas (PGAs), Cluster Country Residential Areas (CCRAs), and in other areas. It measures the growth rate over the five-year period between Census years.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Why is this Indicator Important?</span><br></p><p>Tracking growth rates helps interpret the pace of growth in the region. The growth rate informs the timeframe requirements for implementing new initiatives, such as new housing and transit.</p><p><b>Download CSV Data</b></p><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "font-size": "36px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "SMALL": {
+              "color": "#8c8c8c"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-20",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "PGA s",
+          "meta": "Priority Growth Areas"
         },
         {
           "_styles": {
@@ -269,10 +299,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -310,7 +340,7 @@
           "_anchor": "menu-1t",
           "_params": {
             "bgColor": "#252323",
-            "fontSize": "0.95",
+            "fontSize": "1",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -322,7 +352,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": false,
+            "collapsed": true,
             "hideButtons": false
           },
           "logo": {
@@ -342,7 +372,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Key Performance Indicators</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INDICATOR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator1.html\">1 - Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator2.html\">2 – Population Growth Rate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 – Distribution of Population Growth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4 - Dwelling Unit Density</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"> 5 – Fuel Sales and Vehicle GHG Emissions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">6 - Ambient Air Quality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">7 – Distribution of Market and Non-Market Housing</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://capitalregion.maps.arcgis.com/apps/Viewer/index.html?appid=3bceab64968248cc9bfd1d65b481dda1\" target=\"_blank\">MAP</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INDICATOR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator1.html\">1 - Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator2.html\">2 – Population Growth Rate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator3.html\">3 – Distribution of Population Growth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator4.html\">4 - Dwelling Unit Density</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator5.html\"> 5 – Fuel Sales and Vehicle GHG Emissions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator6.html\">6 - Ambient Air Quality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator7.html\">7 – Distribution of Market and Non-Market Housing</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://capitalregion.maps.arcgis.com/apps/Viewer/index.html?appid=3bceab64968248cc9bfd1d65b481dda1\" target=\"_blank\">MAP</a></li>"
         },
         {
           "alias": "deltapieditor",
@@ -352,7 +382,7 @@
           "_name": "deltapieditor",
           "_anchor": "deltapieditor-1x",
           "_params": {
-            "_customHTML": "<iframe width=\"1414\" height=\"711.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=595207702&format=interactive\" align=\"right\" ></iframe>\n\n<iframe width=\"1310.5\" height=\"712.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=225320213&format=interactive\" align=\"right\"></iframe> ",
+            "_customHTML": "<iframe width=\"1414\" height=\"711.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=595207702&format=interactive\" align='right'></iframe>\n\n<iframe width=\"908\" height=\"561\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=407755641&format=interactive\" align=\"left\"></iframe>",
             "_customCSS": "",
             "bgImageRadio": false,
             "parallax": false,
@@ -361,7 +391,1131 @@
             "bgColorRadio": true
           },
           "_customCSS": "",
-          "_customHTML": "<iframe width=\"1414\" height=\"711.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=595207702&format=interactive\" align=\"right\" ></iframe>\n\n<iframe width=\"1310.5\" height=\"712.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=225320213&format=interactive\" align=\"right\"></iframe> "
+          "_customHTML": "<iframe width=\"1414\" height=\"711.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=595207702&format=interactive\" align='right'></iframe>\n\n<iframe width=\"908\" height=\"561\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=407755641&format=interactive\" align=\"left\"></iframe>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1z",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Capital Regional Board&nbsp;"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-21",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "CCRA",
+          "meta": "County Residential Areas"
+        },
+        {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-22",
+          "_params": {
+            "_customHTML": "<iframe width=\"1310\" height=\"712\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=225320213&format=interactive\" align = 'right'></iframe>\n<iframe width=\"909\" height=\"562\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=133837586&format=interactive\" align ='left'></iframe>",
+            "_customCSS": "p{color:white;}",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true
+          },
+          "_customCSS": "p{color:white;}",
+          "_customHTML": "<iframe width=\"1310\" height=\"712\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=225320213&format=interactive\" align = 'right'></iframe>\n<iframe width=\"909\" height=\"562\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=133837586&format=interactive\" align ='left'></iframe>"
+        }
+      ]
+    },
+    "Indicator3.html": {
+      "settings": {
+        "title": "Indacator 3 Distribution of Population Growth",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "center",
+              "font-size": "16px"
+            },
+            ".lead DIV": {
+              "text-align": "center",
+              "color": "#efefef"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-23",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/downtown-skyline-edmonton-alberta-canada-01a-2000x605.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Indicator 3 – Distribution of Population Growth",
+          "text": "<p></p><p>This is a measure of the distribution of population growth experienced in the Priority Growth Areas (PGAs), Cluster Country Residential Areas (CCRAs), and in remaining areas. It measures the growth rate over the five-year period between Census years.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Why is this Indicator Important?</span><br></p><p>This indicator directly measures where growth is occurring in the region in relation to the defined growth areas. A high share of growth located within the growth areas indicates growth in occurring in a compact manner. A compact urban form supports more efficient use of infrastructure, transit and the protection of the environment and natural resources.</p><p><b><a href=\"https://docs.google.com/spreadsheets/d/1hfolS31ESjESwUNqJeDukyfEdjDuGAzLkzTnCaaYJx0/pub?gid=890432895&amp;amp;single=true&amp;amp;output=csv\" class=\"text-white\">Download CSV Data</a></b></p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "17px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0b0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1d1c1c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#252323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-25",
+          "_params": {
+            "bgColor": "#252323",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-white-576x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Key Performance Indicators</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INDICATOR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator1.html\">1 - Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator2.html\">2 – Population Growth Rate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator3.html\">3 – Distribution of Population Growth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator4.html\">4 - Dwelling Unit Density</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator5.html\"> 5 – Fuel Sales and Vehicle GHG Emissions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator6.html\">6 - Ambient Air Quality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator7.html\">7 – Distribution of Market and Non-Market Housing</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://capitalregion.maps.arcgis.com/apps/Viewer/index.html?appid=3bceab64968248cc9bfd1d65b481dda1\" target=\"_blank\">MAP</a></li>"
+        },
+        {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-26",
+          "_params": {
+            "_customHTML": "<iframe width=\"946\" height=\"445.1641666666667\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=1658164630&amp;format=interactive\"></iframe>\n\n<iframe width=\"947.5\" height=\"585.8708333333333\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=22757589&amp;format=interactive\"></iframe>",
+            "_customCSS": "",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true
+          },
+          "_customCSS": "",
+          "_customHTML": "<iframe width=\"946\" height=\"445.1641666666667\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=1658164630&amp;format=interactive\"></iframe>\n\n<iframe width=\"947.5\" height=\"585.8708333333333\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/15O3T_YepGamZg24Xa2n_vJ-YH_SdN2u171oeyM4j0Q4/pubchart?oid=22757589&amp;format=interactive\"></iframe>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-27",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Capital Regional Board&nbsp;"
+        }
+      ]
+    },
+    "Indicator4.html": {
+      "settings": {
+        "title": "Indacator 4 Dwelling Unit Density",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "center",
+              "font-size": "16px"
+            },
+            ".lead DIV": {
+              "text-align": "center",
+              "color": "#efefef"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/downtown-skyline-edmonton-alberta-canada-01a-2000x605.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Indicator 4 - Dwelling Unit Density",
+          "text": "<p></p><p>This indicator measures the number of dwellings per net residential hectare within municipalities, and within PGAs.&nbsp;</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Why is this Indicator Important?</span><br></p><p>Knowing the dwelling unit density will show how concentrated growth is. Comparing these results over time will demonstrate how density is changing in each PGA and the related municipalities relative to other areas.</p><p><b><a href=\"https://docs.google.com/spreadsheets/d/1lRN1OsNxFfGjO-SOdjo6Wf6_7IZxQP2E-KenR3CjNY0/pub?gid=0&amp;single=true&amp;output=csv\" class=\"text-white\">Download CSV Data</a></b></p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "font-size": "36px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "SMALL": {
+              "color": "#8c8c8c"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2b",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "Dwelling Unit Density by PGA",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "17px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0b0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1d1c1c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#252323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2c",
+          "_params": {
+            "bgColor": "#252323",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-white-576x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Key Performance Indicators</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INDICATOR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator1.html\">1 - Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator2.html\">2 – Population Growth Rate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator3.html\">3 – Distribution of Population Growth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator4.html\">4 - Dwelling Unit Density</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator5.html\"> 5 – Fuel Sales and Vehicle GHG Emissions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator6.html\">6 - Ambient Air Quality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator7.html\">7 – Distribution of Market and Non-Market Housing</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://capitalregion.maps.arcgis.com/apps/Viewer/index.html?appid=3bceab64968248cc9bfd1d65b481dda1\" target=\"_blank\">MAP</a></li>"
+        },
+        {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-2d",
+          "_params": {
+            "_customHTML": "<iframe src=\"https://docs.google.com/spreadsheets/d/1lRN1OsNxFfGjO-SOdjo6Wf6_7IZxQP2E-KenR3CjNY0/pubhtml?gid=135798967&widget=false&chrome=false&embeded=true&scrolling=false\" width=\"100%\" height=\"940\" frameborder='0' scrolling=\"\" seamless=\"\"></iframe>",
+            "_customCSS": "",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true
+          },
+          "_customCSS": "",
+          "_customHTML": "<iframe src=\"https://docs.google.com/spreadsheets/d/1lRN1OsNxFfGjO-SOdjo6Wf6_7IZxQP2E-KenR3CjNY0/pubhtml?gid=135798967&widget=false&chrome=false&embeded=true&scrolling=false\" width=\"100%\" height=\"940\" frameborder='0' scrolling=\"\" seamless=\"\"></iframe>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2e",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Capital Regional Board&nbsp;"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2f",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Dwelling Unit Density by CCRA",
+          "meta": ""
+        },
+        {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-2g",
+          "_params": {
+            "_customHTML": "<iframe src=\"https://docs.google.com/spreadsheets/d/1lRN1OsNxFfGjO-SOdjo6Wf6_7IZxQP2E-KenR3CjNY0/pubhtml?gid=558667054&amp;single=true&amp;widget=false&chrome=false&embeded=true&scrolling=false\" width=\"100%\" height=\"560\" frameborder='0' scrolling=\"\" seamless=\"\"></iframe> \n</div>",
+            "_customCSS": "p{color:white;}",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true
+          },
+          "_customCSS": "p{color:white;}",
+          "_customHTML": "<iframe src=\"https://docs.google.com/spreadsheets/d/1lRN1OsNxFfGjO-SOdjo6Wf6_7IZxQP2E-KenR3CjNY0/pubhtml?gid=558667054&amp;single=true&amp;widget=false&chrome=false&embeded=true&scrolling=false\" width=\"100%\" height=\"560\" frameborder='0' scrolling=\"\" seamless=\"\"></iframe> \n</div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2i",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Dwelling Unit Density by Urban Municipalities in PGAs",
+          "meta": ""
+        },
+        {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-2h",
+          "_params": {
+            "_customHTML": "<iframe src=\"https://docs.google.com/spreadsheets/d/1lRN1OsNxFfGjO-SOdjo6Wf6_7IZxQP2E-KenR3CjNY0/pubhtml?gid=912188992&amp;widget=false&chrome=false&embeded=true&scrolling=false\" width=\"100%\" height=\"250\" frameborder='0' scrolling=\"\" seamless=\"\"></iframe>",
+            "_customCSS": "p{color:white;}",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true
+          },
+          "_customCSS": "p{color:white;}",
+          "_customHTML": "<iframe src=\"https://docs.google.com/spreadsheets/d/1lRN1OsNxFfGjO-SOdjo6Wf6_7IZxQP2E-KenR3CjNY0/pubhtml?gid=912188992&amp;widget=false&chrome=false&embeded=true&scrolling=false\" width=\"100%\" height=\"250\" frameborder='0' scrolling=\"\" seamless=\"\"></iframe>"
+        }
+      ]
+    },
+    "Indicator5.html": {
+      "settings": {
+        "title": "Indacator 5 Fuel Sales and Vehicle GHG Emissions",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "center",
+              "font-size": "16px"
+            },
+            ".lead DIV": {
+              "text-align": "center",
+              "color": "#efefef"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/downtown-skyline-edmonton-alberta-canada-01a-2000x605.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Indicator 5 - Fuel Sales and Vehicle GHG Emissions",
+          "text": "<p></p><p>This indicator measures the total fuel sales (in litres) for vehicles and the GHG emissions that are created and emitted into the atmosphere when the fuel is used. The fuel sales are based on available data for a subset of communities in the Capital Region.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Why is this Indicator Important?</span><br></p><p>Vehicles use a significant portion of the total energy use and GHG emissions. Fossil fuels are a non-renewable form of energy that exist in finite quantities and therefor need to be managed. The burning of fossil fuels contributes to climate change and impacting the environment.</p><p><b><a href=\"https://docs.google.com/spreadsheets/d/16KavQ6yUXiRhpvOkjBE_yAsETWzGFZRj9f6-9Dqlh3U/pub?gid=1723912586&amp;single=true&amp;output=csv\" class=\"text-white\">Download CSV Data</a></b></p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "17px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0b0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1d1c1c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#252323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2l",
+          "_params": {
+            "bgColor": "#252323",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-white-576x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Key Performance Indicators</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INDICATOR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator1.html\">1 - Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator2.html\">2 – Population Growth Rate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator3.html\">3 – Distribution of Population Growth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator4.html\">4 - Dwelling Unit Density</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator5.html\"> 5 – Fuel Sales and Vehicle GHG Emissions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator6.html\">6 - Ambient Air Quality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator7.html\">7 – Distribution of Market and Non-Market Housing</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://capitalregion.maps.arcgis.com/apps/Viewer/index.html?appid=3bceab64968248cc9bfd1d65b481dda1\" target=\"_blank\">MAP</a></li>"
+        },
+        {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-2m",
+          "_params": {
+            "_customHTML": "<iframe width=\"906\" height=\"497.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/16KavQ6yUXiRhpvOkjBE_yAsETWzGFZRj9f6-9Dqlh3U/pubchart?oid=431051455&format=interactive\"></iframe>\n<iframe width=\"906\" height=\"497.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/16KavQ6yUXiRhpvOkjBE_yAsETWzGFZRj9f6-9Dqlh3U/pubchart?oid=1731683150&amp;format=interactive\"></iframe>\n",
+            "_customCSS": "",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true
+          },
+          "_customCSS": "",
+          "_customHTML": "<iframe width=\"906\" height=\"497.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/16KavQ6yUXiRhpvOkjBE_yAsETWzGFZRj9f6-9Dqlh3U/pubchart?oid=431051455&format=interactive\"></iframe>\n<iframe width=\"906\" height=\"497.5\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/16KavQ6yUXiRhpvOkjBE_yAsETWzGFZRj9f6-9Dqlh3U/pubchart?oid=1731683150&amp;format=interactive\"></iframe>\n"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2n",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Capital Regional Board&nbsp;"
+        }
+      ]
+    },
+    "Indicator6.html": {
+      "settings": {
+        "title": "Indacator 6 Ambient Air Quality",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "center",
+              "font-size": "16px"
+            },
+            ".lead DIV": {
+              "text-align": "center",
+              "color": "#efefef"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/downtown-skyline-edmonton-alberta-canada-01a-2000x605.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Indicator 6 - Ambient Air Quality",
+          "text": "<p></p><p>This indicator measures the percentage of hours in a year that each air quality reporting station in the region experienced the various risk levels of the Air Quality Health Index (AQHI). The AQHI uses readings from three air pollutants which are required to calculate a single numerical value to evaluate the health risk associated with air pollution. The three pollutants are fine particulate matter, nitrogen dioxide and ground-level ozone. The charts are presented here in geographical order from West to East.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Why is this Indicator Important?</span><br></p><p>The AQHI is a health protection tool that is designed to help the public make decisions to protect their health by limiting short-term exposure to air pollution and adjusting their activity during increased levels of air pollution.</p><p><b><a href=\"https://docs.google.com/spreadsheets/d/1QMwnwU1_oak3mypYGd1QepiJRnsgEQ0OGbPmFnMbOdI/pub?output=csv&quot;&gt;Download CSV Data\" class=\"text-white\">Download CSV Data</a></b></p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "17px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0b0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1d1c1c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#252323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2t",
+          "_params": {
+            "bgColor": "#252323",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-white-576x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Key Performance Indicators</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INDICATOR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator1.html\">1 - Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator2.html\">2 – Population Growth Rate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator3.html\">3 – Distribution of Population Growth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator4.html\">4 - Dwelling Unit Density</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator5.html\"> 5 – Fuel Sales and Vehicle GHG Emissions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator6.html\">6 - Ambient Air Quality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator7.html\">7 – Distribution of Market and Non-Market Housing</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://capitalregion.maps.arcgis.com/apps/Viewer/index.html?appid=3bceab64968248cc9bfd1d65b481dda1\" target=\"_blank\">MAP</a></li>"
+        },
+        {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-2u",
+          "_params": {
+            "_customHTML": "<table rules=\"all\" style=\"border-style:solid;border-width:thin;width:100%\"><tbody><tr><td style=\"width:115px;text-align:center;\">Health Risk</td><td colspan=\"3\" style=\"text-align:center;width:109px\">Low</td><td colspan=\"3\" style=\"text-align:center;width:109px\">Moderate</td><td colspan=\"4\" style=\"text-align:center;width:109px\">High</td><td colspan=\"1\" style=\"text-align:center;width:109px\">Very High</td></tr><tr><td style=\"width:115px;text-align:center;\"><a href=\"http://aep.alberta.ca/air/air-quality-health-index/default.aspx\" target=\"_blank\" tabindex=\"0\">AQHI Scale</a></td><td style=\"text-align:center;width:36px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#00CCFF\">1</td><td style=\"text-align:center;width:36px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#0099CC\">2</td><td style=\"text-align:center;width:36px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#006699\">3</td><td style=\"text-align:center;width:36px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#FFFF00\">4</td><td style=\"text-align:center;width:36px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#FFCC00\">5</td><td style=\"text-align:center;width:36px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#FF9933\">6</td><td style=\"text-align:center;width:27px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#FF6666\">7</td><td style=\"text-align:center;width:27px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#FF0000\">8</td><td style=\"text-align:center;width:27px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#CC0000\">9</td><td style=\"text-align:center;width:27px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#990000\">10</td><td style=\"text-align:center;width:109px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#660000\">10+</td></tr></tbody></table>\n</p>\n\n\n    \n<div class=\"tab\">\n  <button class=\"tablinks\" onclick=\"openCity(event, 'Tomahawk')\" id=\"defaultOpen\"> Tomahawk </button>\n  <button class=\"tablinks\" onclick=\"openCity(event, 'Genesee')\" id=\"defaultOpen\"> Genesee</button>\n  <button class=\"tablinks\" onclick=\"openCity(event, 'Edmonton')\"> Edmonton </button>\n  <button class=\"tablinks\" onclick=\"openCity(event, 'FortSask')\">Fort Saskatchewan </button>\n  <button class=\"tablinks\" onclick=\"openCity(event, 'Bruderheim')\" id=\"defaultOpen\"> Bruderheim </button>\n  <button class=\"tablinks\" onclick=\"openCity(event, 'Lamont')\" id=\"defaultOpen\">Lamont</button>\n\n\n\n\n\n</div>\n\n<div id=\"Tomahawk\" class=\"tabcontent\">\n  \n<p>\n<iframe width=\"907\" height=\"697\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1QMwnwU1_oak3mypYGd1QepiJRnsgEQ0OGbPmFnMbOdI/pubchart?oid=857343109&amp;format=interactive\"></iframe>\n</div>\n<div id=\"Genesee\" class=\"tabcontent\">\n \n<p>\n<iframe width=\"907\" height=\"697\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1QMwnwU1_oak3mypYGd1QepiJRnsgEQ0OGbPmFnMbOdI/pubchart?oid=2038891278&amp;format=interactive\"></iframe> \n</div>\n\n<div id=\"Edmonton\" class=\"tabcontent\">\n \n<iframe width=\"907\" height=\"697\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1QMwnwU1_oak3mypYGd1QepiJRnsgEQ0OGbPmFnMbOdI/pubchart?oid=294296642&amp;format=interactive\"></iframe>\n</div>\n\n<div id=\"FortSask\" class=\"tabcontent\">\n\n<iframe width=\"907\" height=\"697\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1QMwnwU1_oak3mypYGd1QepiJRnsgEQ0OGbPmFnMbOdI/pubchart?oid=752619246&amp;format=interactive\"></iframe>\n</div>\n\n<div id=\"Bruderheim\" class=\"tabcontent\">\n<iframe width=\"907\" height=\"697\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1QMwnwU1_oak3mypYGd1QepiJRnsgEQ0OGbPmFnMbOdI/pubchart?oid=1217752743&amp;format=interactive\"></iframe>\n</div>\n\n<div id=\"Lamont\" class=\"tabcontent\">\n \n<iframe width=\"907\" height=\"697\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1QMwnwU1_oak3mypYGd1QepiJRnsgEQ0OGbPmFnMbOdI/pubchart?oid=663214289&amp;format=interactive\"></iframe>\n</div>\n\n    \n<script>\nfunction openCity(evt, cityName) {\n    var i, tabcontent, tablinks;\n    tabcontent = document.getElementsByClassName(\"tabcontent\");\n    for (i = 0; i < tabcontent.length; i++) {\n        tabcontent[i].style.display = \"none\";\n    }\n    tablinks = document.getElementsByClassName(\"tablinks\");\n    for (i = 0; i < tablinks.length; i++) {\n        tablinks[i].className = tablinks[i].className.replace(\" active\", \"\");\n    }\n    document.getElementById(cityName).style.display = \"block\";\n    evt.currentTarget.className += \" active\";\n}\n\n// Get the element with id=\"defaultOpen\" and click on it\ndocument.getElementById(\"defaultOpen\").click();\n</script>",
+            "_customCSS": "",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true
+          },
+          "_customCSS": "",
+          "_customHTML": "<table rules=\"all\" style=\"border-style:solid;border-width:thin;width:100%\"><tbody><tr><td style=\"width:115px;text-align:center;\">Health Risk</td><td colspan=\"3\" style=\"text-align:center;width:109px\">Low</td><td colspan=\"3\" style=\"text-align:center;width:109px\">Moderate</td><td colspan=\"4\" style=\"text-align:center;width:109px\">High</td><td colspan=\"1\" style=\"text-align:center;width:109px\">Very High</td></tr><tr><td style=\"width:115px;text-align:center;\"><a href=\"http://aep.alberta.ca/air/air-quality-health-index/default.aspx\" target=\"_blank\" tabindex=\"0\">AQHI Scale</a></td><td style=\"text-align:center;width:36px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#00CCFF\">1</td><td style=\"text-align:center;width:36px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#0099CC\">2</td><td style=\"text-align:center;width:36px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#006699\">3</td><td style=\"text-align:center;width:36px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#FFFF00\">4</td><td style=\"text-align:center;width:36px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#FFCC00\">5</td><td style=\"text-align:center;width:36px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#FF9933\">6</td><td style=\"text-align:center;width:27px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#FF6666\">7</td><td style=\"text-align:center;width:27px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#FF0000\">8</td><td style=\"text-align:center;width:27px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#CC0000\">9</td><td style=\"text-align:center;width:27px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#990000\">10</td><td style=\"text-align:center;width:109px;color:white;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;background-color:#660000\">10+</td></tr></tbody></table>\n<p></p>\n\n\n    \n<div class=\"tab\">\n  <button class=\"tablinks\" onclick=\"openCity(event, 'Tomahawk')\" id=\"defaultOpen\"> Tomahawk </button>\n  <button class=\"tablinks\" onclick=\"openCity(event, 'Genesee')\" id=\"defaultOpen\"> Genesee</button>\n  <button class=\"tablinks active\" onclick=\"openCity(event, 'Edmonton')\"> Edmonton </button>\n  <button class=\"tablinks\" onclick=\"openCity(event, 'FortSask')\">Fort Saskatchewan </button>\n  <button class=\"tablinks\" onclick=\"openCity(event, 'Bruderheim')\" id=\"defaultOpen\"> Bruderheim </button>\n  <button class=\"tablinks\" onclick=\"openCity(event, 'Lamont')\" id=\"defaultOpen\">Lamont</button>\n\n\n\n\n\n</div>\n\n<div id=\"Tomahawk\" class=\"tabcontent\" style=\"display: none;\">\n  \n<p>\n<iframe width=\"907\" height=\"697\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1QMwnwU1_oak3mypYGd1QepiJRnsgEQ0OGbPmFnMbOdI/pubchart?oid=857343109&amp;format=interactive\"></iframe>\n</p></div>\n<div id=\"Genesee\" class=\"tabcontent\" style=\"display: none;\">\n \n<p>\n<iframe width=\"907\" height=\"697\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1QMwnwU1_oak3mypYGd1QepiJRnsgEQ0OGbPmFnMbOdI/pubchart?oid=2038891278&amp;format=interactive\"></iframe> \n</p></div>\n\n<div id=\"Edmonton\" class=\"tabcontent\" style=\"display: block;\">\n \n<iframe width=\"907\" height=\"697\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1QMwnwU1_oak3mypYGd1QepiJRnsgEQ0OGbPmFnMbOdI/pubchart?oid=294296642&amp;format=interactive\"></iframe>\n</div>\n\n<div id=\"FortSask\" class=\"tabcontent\" style=\"display: none;\">\n\n<iframe width=\"907\" height=\"697\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1QMwnwU1_oak3mypYGd1QepiJRnsgEQ0OGbPmFnMbOdI/pubchart?oid=752619246&amp;format=interactive\"></iframe>\n</div>\n\n<div id=\"Bruderheim\" class=\"tabcontent\" style=\"display: none;\">\n<iframe width=\"907\" height=\"697\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1QMwnwU1_oak3mypYGd1QepiJRnsgEQ0OGbPmFnMbOdI/pubchart?oid=1217752743&amp;format=interactive\"></iframe>\n</div>\n\n<div id=\"Lamont\" class=\"tabcontent\" style=\"display: none;\">\n \n<iframe width=\"907\" height=\"697\" seamless=\"\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1QMwnwU1_oak3mypYGd1QepiJRnsgEQ0OGbPmFnMbOdI/pubchart?oid=663214289&amp;format=interactive\"></iframe>\n</div>\n\n    \n<script>\nfunction openCity(evt, cityName) {\n    var i, tabcontent, tablinks;\n    tabcontent = document.getElementsByClassName(\"tabcontent\");\n    for (i = 0; i < tabcontent.length; i++) {\n        tabcontent[i].style.display = \"none\";\n    }\n    tablinks = document.getElementsByClassName(\"tablinks\");\n    for (i = 0; i < tablinks.length; i++) {\n        tablinks[i].className = tablinks[i].className.replace(\" active\", \"\");\n    }\n    document.getElementById(cityName).style.display = \"block\";\n    evt.currentTarget.className += \" active\";\n}\n\n// Get the element with id=\"defaultOpen\" and click on it\ndocument.getElementById(\"defaultOpen\").click();\n</script>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2v",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Capital Regional Board&nbsp;"
+        }
+      ]
+    },
+    "Indicator7.html": {
+      "settings": {
+        "title": "Indicator 7 – Distribution of Market and Non-Market Housing",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "center",
+              "font-size": "16px"
+            },
+            ".lead DIV": {
+              "text-align": "center",
+              "color": "#efefef"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/downtown-skyline-edmonton-alberta-canada-01a-2000x605.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Indicator 7 – Distribution of Market and Non-Market Housing",
+          "text": "<p></p><p>This indicator measures the distribution of market and non-market housing units as a proportion of the total number of housing units, by sub-region.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Why is this Indicator Important?</span><br></p><p>A housing market should provide housing to a range of family types and income levels. This requires different housing types, including subsidized housing (ongoing government subsidies), non-market affordable housing (no operating subsidies), market affordable housing (housing available for moderate incomes but not requiring government subsidies) and market housing. Having a range in housing affordability options is important because it will attract and retain a stable workforce.</p><p><b>Download CSV Data</b></p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "17px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0b0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1d1c1c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#252323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2x",
+          "_params": {
+            "bgColor": "#252323",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-white-576x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Key Performance Indicators</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INDICATOR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator1.html\">1 - Total Regional Population</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator2.html\">2 – Population Growth Rate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator3.html\">3 – Distribution of Population Growth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator4.html\">4 - Dwelling Unit Density</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator5.html\"> 5 – Fuel Sales and Vehicle GHG Emissions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator6.html\">6 - Ambient Air Quality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indicator7.html\">7 – Distribution of Market and Non-Market Housing</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://capitalregion.maps.arcgis.com/apps/Viewer/index.html?appid=3bceab64968248cc9bfd1d65b481dda1\" target=\"_blank\">MAP</a></li>"
+        },
+        {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-2y",
+          "_params": {
+            "_customHTML": "<iframe width=\"1000\" height=\"596\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1qZrIaCYAl9HG9TCgWqCnqlkkT7BTsv-a3_X62UiCTb8/pubchart?oid=645293991&amp;format=interactive\"></iframe>\n<iframe width=\"1000\" height=\"596.6471126340882\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1qZrIaCYAl9HG9TCgWqCnqlkkT7BTsv-a3_X62UiCTb8/pubchart?oid=1728401391&amp;format=interactive\"></iframe>",
+            "_customCSS": "",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true
+          },
+          "_customCSS": "",
+          "_customHTML": "<iframe width=\"1000\" height=\"596\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1qZrIaCYAl9HG9TCgWqCnqlkkT7BTsv-a3_X62UiCTb8/pubchart?oid=645293991&amp;format=interactive\"></iframe>\n<iframe width=\"1000\" height=\"596.6471126340882\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1qZrIaCYAl9HG9TCgWqCnqlkkT7BTsv-a3_X62UiCTb8/pubchart?oid=1728401391&amp;format=interactive\"></iframe>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2z",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Capital Regional Board&nbsp;"
         }
       ]
     }
