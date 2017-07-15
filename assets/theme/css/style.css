@@ -623,13 +623,19 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 
 .text-white {
   color: #fff !important; }
-
+ 
+.text-white-downloadCSV {
+  color: #fff !important; }
+  
+.text-white-downloadCSV:hover {
+  color: #f3c649 !important; }
+  
 .text-black {
   color: #535353 !important; }
 
 .mbr-section {
   position: relative;
-  padding-top: 120px;
+  padding-top: 20px;
   padding-bottom: 120px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
@@ -2142,7 +2148,7 @@ html.is-builder .article .lead:not([data-app-remove-it]) + div .btn {
 .article .mbr-section-title + .mbr-section-subtitle {
   margin-top: 4px; }
 .article .mbr-section-title + .lead p {
-  margin-top: 1.5625rem; }
+  margin-top: 1.0rem; }
 .article .mbr-section-title + div .btn {
   margin-top: 2.3125rem; }
 .article .lead + div .btn {
